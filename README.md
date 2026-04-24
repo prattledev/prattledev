@@ -12,6 +12,8 @@ I operate at the intersection of broadcast and IT, and I hold a Cisco CCNA certi
 
 **[Comrex Fleet Dashboard](https://github.com/prattledev/comrex-dashboard)** - A lightweight Node.js dashboard for monitoring a fleet of Comrex broadcast audio codecs. Polls the Comrex Switchboard API and presents registration status, connection state, firmware version, and IP address for every unit in a single auto-refreshing view.
 
+**[GLITS & BLITS Generator](https://github.com/prattledev/glits-and-blits-gen)** - A web-based generator for broadcast-standard test tone sequences. Produces GLITS (the BBC/EBU stereo alignment cycle) and BLITS (the EBU 5.1 surround channel identification sequence) as 24-bit PCM WAV files at 48 kHz, with correct WAVE_FORMAT_EXTENSIBLE headers. Python backend, vanilla JS frontend, deployable via Docker.
+
 ---
 
 ## Writing
